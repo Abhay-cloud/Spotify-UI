@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Home"
+        android:id="@+id/homeNev"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:tooltipText="Home"
+        />
+
+    <item android:title="Search"
+        android:id="@+id/searchNev"
+        android:icon="@drawable/searchnev"
+        android:tooltipText="Search"
+        />
+
+    <item android:title="Library"
+        android:id="@+id/libraryNev"
+        android:icon="@drawable/ic_baseline_library_music_24"
+        android:tooltipText="Library"
+        />
+
+    <item android:title="Premium"
+        android:id="@+id/premiumNev"
+        android:icon="@drawable/premium"
+        android:tooltipText="Premium"
+        />
+</menu>
